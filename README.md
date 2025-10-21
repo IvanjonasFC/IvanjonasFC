@@ -47,7 +47,6 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" style="background-color: white; border-radius: 5px; padding: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
 </p>
 
@@ -70,7 +69,6 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" style="background-color: white; border-radius: 5px; padding: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </p>
 
 <strong>Otros 🧪🗃️</strong>
@@ -80,6 +78,7 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="background-color: white; border-radius: 5px; padding: 2px;" />
+  <img src="https://img.shields.io/badge/n8n-40a9ff?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
 </p>
 
