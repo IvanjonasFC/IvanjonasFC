@@ -28,24 +28,19 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   </tr>
 </table>
 
-
 ## 🛠️ Lenguajes y herramientas
 
-<details>
-<summary><strong>Lenguajes 💬👨‍💻</strong></summary>
+<strong>Lenguajes 💬👨‍💻</strong>
 
 <br>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Frameworks 🎨🧩</strong></summary>
+<strong>Frameworks 🎨🧩</strong>
 
 <br>
 
@@ -54,13 +49,9 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" style="background-color: white; border-radius: 5px; padding: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
-
 </p>
 
-</details>
-
-<details>
-<summary><strong>Bases de datos 🗄️📊</strong></summary>
+<strong>Bases de datos 🗄️📊</strong>
 
 <br>
 
@@ -69,13 +60,9 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-
 </p>
 
-</details>
-
-<details>
-<summary><strong>DevOps ⚙️🚀</strong></summary>
+<strong>DevOps ⚙️🚀</strong>
 
 <br>
 
@@ -86,10 +73,7 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
 </p>
 
-</details>
-
-<details>
-<summary><strong>Otros 🧪🗃️</strong></summary>
+<strong>Otros 🧪🗃️</strong>
 
 <br>
 
@@ -99,7 +83,6 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
 </p>
 
-</details>
 
 ## 📫 Cómo contactarme
 
