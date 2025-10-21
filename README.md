@@ -19,7 +19,7 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
   <tr>
     <!-- Columna izquierda: imagen y texto animado -->
     <td align="center" width="50%">
-      <img src="github2.png" width="200" style="border-radius: 10px;" alt="El Programador Vagabundo"/><br><br>
+      <img src="[github2.png](https://www.linkedin.com/in/ivanjonasfc/)" width="200" style="border-radius: 10px;" alt="El Programador Vagabundo"/><br><br>
       <img src="https://avatars.githubusercontent.com/u/5982706?s=400&u=88cb9c790badd07675e09e781387062b4b7088ab&v=4" alt="Typing SVG" />
     </td>
     <!-- Columna derecha: estadísticas -->
