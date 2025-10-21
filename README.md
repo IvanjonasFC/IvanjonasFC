@@ -105,13 +105,13 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
     <a href="https://www.linkedin.com/in/ivanjonasfc/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a <a href="mailto:ivanjonasfc@gmail.com?Subject=Hola%20Ivan" target="_blank">
+    <a <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanjonasfc@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="portfolio.pesoz.i234.me" target="_blank">
+    <a href="https://portfolio.pesoz.i234.me" target="_blank">
         <img src="https://img.shields.io/badge/GoToMeeting-0288D1?style=for-the-badge&logo=gotomeeting&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://github.com/danmoltor2" target="_blank"> 
+    <a href="https://github.com/IvanjonasFC" target="_blank"> 
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </p>
