@@ -1,4 +1,5 @@
-** Iván Jonás Fernández Correa
+<h1 align="center">Iván Jonás Fernández Correa</h1>
+
 
 Soy un apasionado de la tecnología con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
