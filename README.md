@@ -102,6 +102,7 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
 </details>
 
 ## 📫 Cómo contactarme
-- Linkedin:[LinkedIn](https://www.linkedin.com/in/ivanjonasfc/)
-- Portfolio: portfolio.pesoz.i234.me
-- Correo: ivanjonasfc@gmail.com
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/ivanjonasfc/)
+- Portfolio: [portfolio.pesoz.i234.me](https://portfolio.pesoz.i234.me)
+- Correo: [ivanjonasfc@gmail.com](mailto:ivanjonasfc@gmail.com)
+
