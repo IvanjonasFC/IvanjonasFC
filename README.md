@@ -109,7 +109,7 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://portfolio.pesoz.i234.me" target="_blank">
-        <img src="https://img.shields.io/badge/GoToMeeting-0288D1?style=for-the-badge&logo=gotomeeting&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://github.com/IvanjonasFC" target="_blank"> 
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
