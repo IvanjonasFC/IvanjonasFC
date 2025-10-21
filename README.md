@@ -21,12 +21,12 @@ Actualmente busco integrarme en un equipo técnico donde pueda aportar esta ment
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark"/>
     </td>
-  </tr>
+ 
      <!-- Columna Derecha: Lenguajes más usados -->
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
     </td>
-    
+  </tr>   
 </table>
 
 ## 🛠️ Lenguajes y herramientas
