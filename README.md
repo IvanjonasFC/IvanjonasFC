@@ -1,7 +1,7 @@
 <h1 align="center">Iván Jonás Fernández Correa</h1>
 
 
-Soy un apasionado de la tecnología con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Soy un apasionado de la tecnología con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Un pequeño Junior DevOps
 
 Mi experiencia laboral mayoritariamente fue en hostelería (ayudante de cocina y camarero en entornos como Burger King), donde desarrollé habilidades clave: trabajo bajo presión, en equipo y con enfoque al cliente. Sin embargo, mi verdadera motivación siempre ha estado en la tecnología.
 
