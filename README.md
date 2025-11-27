@@ -1,20 +1,20 @@
 <h1 align="center">Iván Jonás Fernández Correa</h1>
 
+### 👨‍💻 Sobre mí
+Ingeniero híbrido con una base sólida en **Administración de Sistemas (ASIR)** y formación avanzada en **Desarrollo Multiplataforma (DAM)**. Me especializo en cerrar la brecha entre el desarrollo de software y las operaciones (DevOps), construyendo soluciones escalables y mantenibles.
 
-Soy un apasionado de la tecnología con formación en Administración de Sistemas Informáticos en Red (ASIR) y actualmente estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Un pequeño Junior DevOps
+Mi enfoque técnico se centra en la automatización, la contenedorización y la implementación de arquitecturas resilientes.
 
-Mi experiencia laboral mayoritariamente fue en hostelería (ayudante de cocina y camarero en entornos como Burger King), donde desarrollé habilidades clave: trabajo bajo presión, en equipo y con enfoque al cliente. Sin embargo, mi verdadera motivación siempre ha estado en la tecnología.
+### 🏗️ Infraestructura & Home Lab
+Gestiono una infraestructura *on-premise* que utilizo como entorno de I+D para simular despliegues de producción:
 
-De manera autodidacta he creado mi propio laboratorio tecnológico en casa:
+* **DevOps & Cloud:** Orquestación de servicios mediante **Docker**, gestión de **DNS Dinámico** y tunelización segura para acceso remoto (Zero Trust networking).
+* **Automatización:** Workflows complejos de integración y automatización de procesos mediante **n8n**.
+* **AI Ops:** Implementación local de modelos de Inteligencia Artificial (LLMs) con **Ollama** para experimentación de inferencia privada.
+* **Media Streaming:** Despliegue y optimización de servicios de streaming self-hosted (Jellyfin).
 
-🛠️ Diseñé y gestiono un servidor NAS con servicios en contenedores (Docker) para streaming privado (Jellyfin), automatización (n8n) y ejecución local de modelos de IA (Ollama).
-
-🌐 Configuré un dominio propio, DNS dinámico y acceso remoto seguro, logrando que mis servicios estén disponibles desde cualquier lugar sin depender de plataformas comerciales.
-
-💡 Exploro constantemente nuevas herramientas: Android Studio para desarrollo móvil, scripting en Python y gestión de infraestructura en Linux.
-
-Actualmente busco integrarme en un equipo técnico donde pueda aportar esta mentalidad práctica y seguir creciendo como desarrollador o ingeniero de sistemas, transformando problemas reales en soluciones funcionales.
-
+### 🚀 Objetivo
+Busco unirme a equipos de ingeniería de alto rendimiento donde pueda aplicar mi mentalidad *SysAdmin* al ciclo de vida del desarrollo de software, aportando soluciones prácticas desde el primer día.
 <table>
   <tr>
     <!-- Columna izquierda: estadísticas -->
