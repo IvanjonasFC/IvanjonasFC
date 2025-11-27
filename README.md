@@ -8,9 +8,9 @@ Mi enfoque técnico se centra en la automatización, la contenedorización y la 
 ### 🏗️ Infraestructura & Home Lab
 Gestiono una infraestructura *on-premise* que utilizo como entorno de I+D para simular despliegues de producción:
 
-* **DevOps & Cloud:** Orquestación de servicios mediante **Docker**, gestión de **DNS Dinámico** y tunelización segura para acceso remoto (Zero Trust networking).
-* **Automatización:** Workflows complejos de integración y automatización de procesos mediante **n8n**.
-* **AI Ops:** Implementación local de modelos de Inteligencia Artificial (LLMs) con **Ollama** para experimentación de inferencia privada.
+* **DevOps & Cloud:** Orquestación de servicios mediante **Docker**.
+* **Automatización:** Workflows  de integración y automatización de procesos mediante **n8n** para uso personal.
+* **AI Ops:** Implementación local de modelos de Inteligencia Artificial (LLMs) con **Ollama** para experimentación .
 * **Media Streaming:** Despliegue y optimización de servicios de streaming self-hosted (Jellyfin).
 
 ### 🚀 Objetivo
