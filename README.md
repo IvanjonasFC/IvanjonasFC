@@ -1,8 +1,7 @@
 <h1 align="center">Iván Jonás Fernández Correa</h1>
 
 ### 👨‍💻 Sobre mí
-Ingeniero híbrido con una base sólida en **Administración de Sistemas (ASIR)** y formación avanzada en **Desarrollo Multiplataforma (DAM)**. Me especializo en cerrar la brecha entre el desarrollo de software y las operaciones (DevOps), construyendo soluciones escalables y mantenibles.
-
+Ingeniero híbrido con una base sólida en **Administración de Sistemas (ASIR)** y formación avanzada en **Desarrollo Multiplataforma (DAM)**.
 Mi enfoque técnico se centra en la automatización, la contenedorización y la implementación de arquitecturas resilientes.
 
 ### 🏗️ Infraestructura & Home Lab
