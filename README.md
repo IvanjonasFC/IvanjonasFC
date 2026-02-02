@@ -24,7 +24,7 @@ Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reempla
 ## Proyecto Destacado: LifeOS
 
 **Sistema Operativo Familiar Self-Hosted**  
-<img src="icon.png" alt="LifeOS Logo" width="380" height="380"/>
+<img src="icon.png" alt="LifeOS Logo" width="300" height="300"/>
 <p>LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud comerciales, ofreciendo:</p>
 
 
@@ -40,6 +40,7 @@ Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reempla
 Backend: NestJS + PostgreSQL + TypeORM + Socket.IO + Redis
 Frontend: Angular 18 + Ionic 8 + Capacitor
 DevOps: Docker Compose + Caddy + Cloudflare Tunnel
+
 ---
 
 ## Infraestructura & Home Lab
