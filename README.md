@@ -23,8 +23,7 @@ Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reempla
 
 ## Proyecto Destacado: LifeOS
 
-**Sistema Operativo Familiar Self-Hosted** - TFG en curso
-
+**Sistema Operativo Familiar Self-Hosted**  LIFEOS
 LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud comerciales, ofreciendo:
 
 - **💬 Chat en tiempo real** con Socket.IO y notificaciones push
@@ -44,7 +43,7 @@ text
 
 ---
 
-## 🏗️ Infraestructura & Home Lab
+## Infraestructura & Home Lab
 
 Opero un laboratorio de I+D on-premise que simula entornos de producción:
 
@@ -56,7 +55,7 @@ Opero un laboratorio de I+D on-premise que simula entornos de producción:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Lenguajes
 <p>
@@ -95,7 +94,7 @@ Opero un laboratorio de I+D on-premise que simula entornos de producción:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <table>
   <tr>
@@ -115,7 +114,7 @@ Opero un laboratorio de I+D on-premise que simula entornos de producción:
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 Busco unirme a equipos de ingeniería donde pueda aportar mi mentalidad **SysAdmin aplicada al ciclo de vida del software**, con enfoque en:
 
