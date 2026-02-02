@@ -40,9 +40,6 @@ Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reempla
 Backend: NestJS + PostgreSQL + TypeORM + Socket.IO + Redis
 Frontend: Angular 18 + Ionic 8 + Capacitor
 DevOps: Docker Compose + Caddy + Cloudflare Tunnel
-
-text
-
 ---
 
 ## Infraestructura & Home Lab
