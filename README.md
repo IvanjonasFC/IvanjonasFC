@@ -45,14 +45,33 @@ text
 
 ## Infraestructura & Home Lab
 
-Opero un laboratorio de I+D on-premise que simula entornos de producción:
+Opero un entorno de laboratorio on-premise que replica arquitecturas de producción para I+D y aprendizaje continuo:
 
-- **Orquestación**: Despliegue multi-contenedor con Docker Compose
-- **Automatización**: Workflows con n8n para pipelines personales
-- **AI Local**: Modelos LLM locales con Ollama (experimentación privada)
-- **Media Server**: Jellyfin optimizado con 8TB de contenido
-- **Monitorización**: Caddy como reverse proxy con HTTPS automático
+### Infrastructure as Code
+- **Contenedorización**: Docker Compose para orquestación multi-servicio
+- **Reverse Proxy**: Caddy con certificados SSL/TLS automáticos (Let's Encrypt)
+- **Networking**: Wireguard Tunnel para acceso seguro con VPN a mi NAS
+- **Monitorización**: Stack de observabilidad con logs centralizados (NETDATA)
 
+### Data Layer
+- **PostgreSQL 16**: Base de datos principal con 40+ tablas, vistas materializadas y optimización de queries
+- **Redis**: Caché distribuido y gestión de sesiones
+- **MongoDB**: Base de datos NoSQL para datos no estructurados
+- **Adminer**: Administración web de bases de datos relacionales
+
+### DevOps & Automation
+- **Automatización**: Workflows personalizados para backup, sincronización y notificaciones
+- **Scripting**: Bash/Python para tareas de administración de sistemas
+
+### Self-Hosted Services
+- **Media Streaming**: Jellyfin con biblioteca de 8TB y transcodificación hardware
+- **AI Local**: Stack Ollama para inferencia de LLMs sin dependencias cloud (Llama, Mistral)
+- **Notificaciones**: Gotify como servidor push self-hosted
+
+### Capacidades Técnicas Demostradas
+- Diseño de esquemas de bases de datos relacionales complejas
+- Optimización de queries SQL (índices, triggers, vistas materializadas)
+- Backup automatizado y estrategias de disaster recovery
 ---
 
 ##  Tech Stack
@@ -94,23 +113,16 @@ Opero un laboratorio de I+D on-premise que simula entornos de producción:
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanjonasFC&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180em" alt="Lenguajes más usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanjonasFC&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
