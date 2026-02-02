@@ -1,100 +1,147 @@
 <h1 align="center">Iván Jonás Fernández Correa</h1>
+<h3 align="center">DevOps Engineer | Full-Stack Developer</h3>
 
-### 👨‍💻 Sobre mí
-Ingeniero híbrido con una base sólida en **Administración de Sistemas (ASIR)** y formación avanzada en **Desarrollo Multiplataforma (DAM)**.
-Mi enfoque técnico se centra en la automatización, la contenedorización y la implementación de arquitecturas resilientes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ivanjonasfc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanjonasfc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://portfolio.pesoz.i234.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-### 🏗️ Infraestructura & Home Lab
-Gestiono una infraestructura *on-premise* que utilizo como entorno de I+D para simular despliegues de producción:
+---
 
-* **DevOps & Cloud:** Orquestación de servicios mediante **Docker**.
-* **Automatización:** Workflows  de integración y automatización de procesos mediante **n8n** para uso personal.
-* **AI Ops:** Implementación local de modelos de Inteligencia Artificial (LLMs) con **Ollama** para experimentación .
-* **Media Streaming:** Despliegue y optimización de servicios de streaming self-hosted (Jellyfin).
+## 👨‍💻 Sobre mí
 
-### 🚀 Objetivo
-Busco unirme a equipos de ingeniería de alto rendimiento donde pueda aplicar mi mentalidad *SysAdmin* al ciclo de vida del desarrollo de software, aportando soluciones prácticas desde el primer día.
+Ingeniero híbrido especializado en **Administración de Sistemas (ASIR)** y **Desarrollo Multiplataforma (DAM)**. Mi enfoque combina la mentalidad DevOps con arquitecturas de software resilientes, priorizando automatización, contenedorización y self-hosting [web:15].
+
+Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reemplaza servicios de pago por soluciones de código abierto bajo tu propio control.
+
+## 🚀 Proyecto Destacado: LifeOS
+
+**Sistema Operativo Familiar Self-Hosted** - TFG en curso
+
+LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud comerciales, ofreciendo:
+
+- **💬 Chat en tiempo real** con Socket.IO y notificaciones push
+- **📅 Calendario compartido** con recordatorios personalizables  
+- **💰 Gestor de gastos** con liquidación automática de deudas
+- **🛒 Lista de compras colaborativa** sincronizada
+- **📝 Sistema de notas** con soporte Markdown
+- **☁️ Almacenamiento cloud** con galería de fotos y cuotas por usuario
+- **🔔 Notificaciones push** self-hosted con Gotify
+
+### Stack Tecnológico
+Backend: NestJS + PostgreSQL + TypeORM + Socket.IO + Redis
+Frontend: Angular 18 + Ionic 8 + Capacitor
+DevOps: Docker Compose + Caddy + Cloudflare Tunnel
+
+text
+
+### Arquitectura Destacada
+- 40 tablas PostgreSQL con relaciones optimizadas
+- Vistas materializadas para analytics
+- Autenticación JWT con refresh tokens
+- WebSocket para sincronización en tiempo real
+- Instalación automatizada con un comando [file:7]
+
+**Estado**: MVP funcional en producción, 25+ usuarios beta, TFG 2026
+
+[🔗 Ver Repositorio](#) | [📖 Documentación](#) | [🎥 Demo](#)
+
+---
+
+## 🏗️ Infraestructura & Home Lab
+
+Opero un laboratorio de I+D on-premise que simula entornos de producción:
+
+- **Orquestación**: Despliegue multi-contenedor con Docker Compose
+- **Automatización**: Workflows con n8n para pipelines personales
+- **AI Local**: Modelos LLM locales con Ollama (experimentación privada)
+- **Media Server**: Jellyfin optimizado con 8TB de contenido
+- **Monitorización**: Caddy como reverse proxy con HTTPS automático
+
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
+</p>
+
+### Bases de Datos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+</p>
+
+### DevOps & Infrastructure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="background-color: white; border-radius: 5px; padding: 2px;" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" height="40" alt="caddy" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <table>
   <tr>
-    <!-- Columna izquierda: estadísticas -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
     </td>
-    <!-- Columna derecha: Lenguajes más usados -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanjonasFC&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-## 🛠️ Lenguajes y herramientas
+---
 
-<strong>Lenguajes 💬👨‍💻</strong>
+## 🎯 Objetivos
 
-<br>
+Busco unirme a equipos de ingeniería donde pueda aportar mi mentalidad **SysAdmin aplicada al ciclo de vida del software**, con enfoque en:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+- Arquitecturas cloud-native y microservicios
+- CI/CD y automatización de despliegues
+- Infraestructura como código (IaC)
+- Observabilidad y monitorización
+- Seguridad desde el diseño (DevSecOps)
+
+---
+
+<p align="center">
+  <i>💡 Disponible para proyectos de código abierto y colaboraciones</i>
 </p>
 
-<strong>Frameworks 🎨🧩</strong>
-
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
-</p>
-
-<strong>Bases de datos 🗄️📊</strong>
-
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-</p>
-
-<strong>DevOps ⚙️🚀</strong>
-
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" style="background-color: white; border-radius: 5px; padding: 2px;" />
-</p>
-
-<strong>Otros 🧪🗃️</strong>
-
-<br>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="background-color: white; border-radius: 5px; padding: 2px;" />
-  <img src="https://img.shields.io/badge/n8n-40a9ff?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
-</p>
-
-
-## 📫 Cómo contactarme
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/ivanjonasfc/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivanjonasfc@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://portfolio.pesoz.i234.me" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://github.com/IvanjonasFC" target="_blank"> 
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IvanjonasFC&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
