@@ -24,8 +24,9 @@ Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reempla
 ## Proyecto Destacado: LifeOS
 
 **Sistema Operativo Familiar Self-Hosted**  
-<img src="icon.png" alt="LifeOS Logo" width="120" height="120"/>
-LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud comerciales, ofreciendo:
+<img src="icon.png" alt="LifeOS Logo" width="380" height="380"/>
+<p>LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud comerciales, ofreciendo:</p>
+
 
 - **💬 Chat en tiempo real** con Socket.IO y notificaciones push
 - **📅 Calendario compartido** con recordatorios personalizables  
