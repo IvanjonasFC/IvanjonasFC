@@ -15,13 +15,13 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+##  Sobre mí
 
 Ingeniero híbrido especializado en **Administración de Sistemas (ASIR)** y **Desarrollo Multiplataforma (DAM)**. Mi enfoque combina la mentalidad DevOps con arquitecturas de software resilientes, priorizando automatización, contenedorización y self-hosting [web:15].
 
 Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reemplaza servicios de pago por soluciones de código abierto bajo tu propio control.
 
-## 🚀 Proyecto Destacado: LifeOS
+## Proyecto Destacado: LifeOS
 
 **Sistema Operativo Familiar Self-Hosted** - TFG en curso
 
@@ -31,7 +31,7 @@ LifeOS es un ecosistema todo-en-uno que elimina dependencias de servicios cloud 
 - **📅 Calendario compartido** con recordatorios personalizables  
 - **💰 Gestor de gastos** con liquidación automática de deudas
 - **🛒 Lista de compras colaborativa** sincronizada
-- **📝 Sistema de notas** con soporte Markdown
+- **📝 Sistema de notas** 
 - **☁️ Almacenamiento cloud** con galería de fotos y cuotas por usuario
 - **🔔 Notificaciones push** self-hosted con Gotify
 
@@ -41,17 +41,6 @@ Frontend: Angular 18 + Ionic 8 + Capacitor
 DevOps: Docker Compose + Caddy + Cloudflare Tunnel
 
 text
-
-### Arquitectura Destacada
-- 40 tablas PostgreSQL con relaciones optimizadas
-- Vistas materializadas para analytics
-- Autenticación JWT con refresh tokens
-- WebSocket para sincronización en tiempo real
-- Instalación automatizada con un comando [file:7]
-
-**Estado**: MVP funcional en producción, 25+ usuarios beta, TFG 2026
-
-[🔗 Ver Repositorio](#) | [📖 Documentación](#) | [🎥 Demo](#)
 
 ---
 
