@@ -17,9 +17,9 @@
 
 ##  Sobre mí
 
-Ingeniero híbrido especializado en **Administración de Sistemas (ASIR)** y **Desarrollo Multiplataforma (DAM)**. Mi enfoque combina la mentalidad DevOps con arquitecturas de software resilientes, priorizando automatización, contenedorización y self-hosting [web:15].
+Ingeniero híbrido especializado en **Administración de Sistemas (ASIR)** y **Desarrollo Multiplataforma (DAM)**. Mi enfoque combina la mentalidad DevOps con arquitecturas de software resilientes, priorizando automatización, contenedorización y self-hosting.
 
-Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reemplaza servicios de pago por soluciones de código abierto bajo tu propio control.
+Actualmente desarrollo **LifeOS**, un ecosistema modular self-hosted que reemplaza servicios de pago por soluciones de código abierto bajo tu propio control en fase Alpha.
 
 ## Proyecto Destacado: LifeOS
 
