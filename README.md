@@ -111,18 +111,6 @@ Opero un entorno de laboratorio on-premise que replica arquitecturas de producci
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" height="40" alt="caddy" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180em" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanjonasFC&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
