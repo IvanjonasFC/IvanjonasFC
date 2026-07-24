@@ -5,7 +5,8 @@ name: Metrics
 on:
   schedule: [{ cron: "0 6 * * *" }]   # cada día a las 06:00 UTC
   workflow_dispatch:                   # botón para ejecutarlo a mano
-  push: { branches: ["main"] }         # también al hacer push
+  # OJO: sin disparador 'push'. Como el commit del SVG usa tu PAT, un 'push'
+  # aquí crearía un bucle infinito de ejecuciones.
 
 permissions:
   contents: write
@@ -21,9 +22,6 @@ jobs:
           user: IvanjonasFC
           filename: github-metrics.svg
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity
           config_timezone: Europe/Madrid
-          # Lenguajes más usados
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          # Tarjeta compacta: sin 'repositories' ni 'languages' (ya está el Tech Stack).
