@@ -1,0 +1,29 @@
+# Colócalo en tu repo de perfil (IvanjonasFC/IvanjonasFC) en:
+#   .github/workflows/metrics.yml
+# Genera y committea github-metrics.svg → el README lo enlaza y NUNCA se rompe.
+name: Metrics
+on:
+  schedule: [{ cron: "0 6 * * *" }]   # cada día a las 06:00 UTC
+  workflow_dispatch:                   # botón para ejecutarlo a mano
+  push: { branches: ["main"] }         # también al hacer push
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # PAT (classic) guardado como secreto del repo. Scope: repo (o public_repo).
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: IvanjonasFC
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Europe/Madrid
+          # Lenguajes más usados
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
