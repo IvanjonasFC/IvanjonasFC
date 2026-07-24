@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:ff3c00&height=190&section=header&text=Iv%C3%A1n%20Jon%C3%A1s%20Fern%C3%A1ndez%20Correa&fontSize=40&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20%26%20DevOps&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:ff3c00&height=180&section=header&text=Iv%C3%A1n%20Jon%C3%A1s&fontSize=50&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20%26%20DevOps&descSize=20&descAlignY=62" width="100%" alt="Iván Jonás — Full-Stack & DevOps" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Automate+everything;Perfil+h%C3%ADbrido%3A+dev+%2B+sistemas;IA+local:+RAG+y+MCP;Del+c%C3%B3digo+al+despliegue" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF6B00&center=true&vCenter=true&width=640&lines=Automate+everything;Perfil+h%C3%ADbrido:+dev+%2B+sistemas;IA+local+%C2%B7+RAG+%C2%B7+MCP;~30+servicios+self-hosted+24%2F7;Del+c%C3%B3digo+al+despliegue" alt="typing" />
 
 <a href="https://portfolio.ivanjonasfc.dev"><img src="https://img.shields.io/badge/Portfolio-ff6b00?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ivanjonasfc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -36,16 +36,21 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 ## Proyecto destacado — LifeOS
 
-<img src="icon.png" alt="LifeOS" width="120" align="left" />
-
-**Suite familiar self-hosted con IA propia ("Lito").** Devuelve la soberanía de tus datos: vive en tu propio servidor, sin suscripciones ni terceros.
-
-- **Backend:** NestJS + PostgreSQL + TypeORM + BullMQ + Redis
-- **Frontend:** Angular 18 + Ionic 8 (app Android)
-- **IA "Lito":** RAG sobre pgvector/Qdrant + LLMs vía **Model Context Protocol (MCP)**
-- **Módulos:** chat cifrado, calendario, gastos con splits en tiempo real, nube, notas, geolocalización y panel de administración
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="170" align="center" valign="top">
+      <img src="icon.png" alt="LifeOS" width="140" />
+    </td>
+    <td valign="top">
+      <b>Suite familiar self-hosted con IA propia ("Lito").</b> Devuelve la soberanía de tus datos: vive en tu propio servidor, sin suscripciones ni terceros.
+      <br/><br/>
+      &bull; <b>Backend:</b> NestJS + PostgreSQL + TypeORM + BullMQ + Redis<br/>
+      &bull; <b>Frontend:</b> Angular 18 + Ionic 8 (app Android)<br/>
+      &bull; <b>IA "Lito":</b> RAG sobre pgvector/Qdrant + LLMs vía <b>Model Context Protocol (MCP)</b><br/>
+      &bull; <b>Módulos:</b> chat cifrado, calendario, gastos con splits en tiempo real, nube, notas, geolocalización y panel de administración
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>Otros proyectos</b></summary>
