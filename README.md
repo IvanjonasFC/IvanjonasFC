@@ -24,6 +24,23 @@ disponible:  para trabajar
 diferencia:  escribo el código y administro la infraestructura donde corre
 ```
 
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api?username=IvanjonasFC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00&border_radius=12" alt="Estadísticas" />
+<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Lenguajes más usados" />
+
+</div>
+
+## Gráfico de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true&title_color=ff6b00" width="100%" alt="Gráfico de actividad" />
+
+</div>
+
 ## Lo que construyo
 
 | Desarrollo | Infraestructura e IA |
@@ -102,29 +119,6 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api?username=IvanjonasFC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00&border_radius=12" alt="Estadísticas" />
-<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Lenguajes más usados" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IvanjonasFC&hide_border=true&background=0D1117&stroke=ff6b00&ring=ff6b00&fire=ff3c00&currStreakLabel=ff6b00&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e&border_radius=12" alt="Racha de contribuciones" />
-
-</div>
-
-## Gráfico de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true&title_color=ff6b00" width="100%" alt="Gráfico de actividad" />
-
-</div>
-
 ## Conecta conmigo
 
 <div align="center">
@@ -139,4 +133,4 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:ff6b00&height=120&section=footer&text=Del%20c%C3%B3digo%20al%20despliegue&fontSize=20&fontColor=ffffff&descAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:ff3c00&height=150&section=footer&text=Del%20c%C3%B3digo%20al%20despliegue&fontSize=26&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
