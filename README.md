@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:ff3c00&height=180&section=header&text=Iv%C3%A1n%20Jon%C3%A1s&fontSize=50&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20%26%20DevOps&descSize=20&descAlignY=62" width="100%" alt="Iván Jonás — Full-Stack & DevOps" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:ff3c00&height=180&section=header&text=Iv%C3%A1n%20Jon%C3%A1s&fontSize=50&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20y%20DevOps&descSize=20&descAlignY=62" width="100%" alt="Ivan Jonas - Full-Stack y DevOps" />
 
 <div align="center">
 
@@ -102,16 +102,12 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## Estadísticas de GitHub
+## Actividad en GitHub
 
-<!-- SVG generado por la Action .github/workflows/metrics.yml (fichero del repo, siempre carga). -->
+<!-- Calendario generado por la Action .github/workflows/metrics.yml (fichero del repo → siempre carga). -->
 <div align="center">
-  <img src="github-metrics.svg" alt="Métricas de GitHub" width="82%" />
+  <img src="github-metrics.svg" alt="Actividad en GitHub" width="85%" />
 </div>
-
-## Gráfico de contribuciones
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de actividad" />
 
 ## Conecta conmigo
 
