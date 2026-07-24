@@ -22,6 +22,8 @@ jobs:
           user: IvanjonasFC
           filename: github-metrics.svg
           template: classic
-          base: header, activity
+          base: ""
           config_timezone: Europe/Madrid
-          # Tarjeta compacta: sin 'repositories' ni 'languages' (ya está el Tech Stack).
+          # Minimalista: solo el calendario de contribuciones (isocalendar).
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
