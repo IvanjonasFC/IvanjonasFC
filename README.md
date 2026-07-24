@@ -33,14 +33,6 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 </div>
 
-## Gráfico de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true&title_color=ff6b00" width="100%" alt="Gráfico de actividad" />
-
-</div>
-
 ## Lo que construyo
 
 | Desarrollo | Infraestructura e IA |
@@ -118,6 +110,14 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+## Gráfico de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true&title_color=ff6b00" width="100%" alt="Gráfico de actividad" />
+
+</div>
 
 ## Conecta conmigo
 
