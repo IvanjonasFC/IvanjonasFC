@@ -106,8 +106,8 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Estadísticas" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Lenguajes más usados" />
+<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api?username=IvanjonasFC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00&border_radius=12" alt="Estadísticas" />
+<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Lenguajes más usados" />
 
 </div>
 
