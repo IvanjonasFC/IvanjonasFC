@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-Desarrollador con perfil **DevOps**. Combino desarrollo full-stack (Java, Python, TypeScript) con administración de sistemas e **infraestructura como código** (Docker, Linux, CI/CD). Titulado en **DAM** y **ASIR**, con proyectos reales en producción y uso avanzado de IA (**RAG, MCP**). Entiendo el ciclo completo del software: de la línea de código al despliegue.
+Soy Iván Jonás, desarrollador con perfil **DevOps**. Combino desarrollo full-stack (Java, Python, TypeScript) con administración de sistemas e infraestructura como código (Docker, Linux, CI/CD). Titulado en DAM y ASIR, con proyectos reales en producción y uso avanzado de IA (RAG, MCP). Entiendo el ciclo completo del software: de la línea de código al despliegue.
 
 > *"Automate everything".* Me obsesiona la eficiencia y la creación de sistemas robustos y escalables. Autodidacta por naturaleza.
 
@@ -97,6 +97,18 @@ Busco un rol de ingeniería donde aportar mi **mentalidad de sistemas aplicada a
 - Observabilidad y monitorización
 - Seguridad desde el diseño (DevSecOps)
 - Integración de IA en producto (RAG, MCP, agentes)
+
+---
+
+## Actividad en GitHub
+
+<!-- Estas tarjetas apuntan a github-readme-stats. Para que carguen SIEMPRE, despliega
+     tu propia instancia (Vercel + token) y cambia "github-readme-stats.vercel.app"
+     por el host de tu instancia en las 2 URLs. El cache_seconds ya reduce los fallos. -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanjonasFC&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&title_color=ff6b00&icon_color=ff6b00&text_color=9ca3af&bg_color=0d1117" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&hide_border=true&cache_seconds=86400&langs_count=8&title_color=ff6b00&text_color=9ca3af&bg_color=0d1117" alt="Lenguajes más usados" />
+</p>
 
 ---
 
