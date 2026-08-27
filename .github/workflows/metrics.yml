@@ -1,12 +1,18 @@
-# Colócalo en tu repo de perfil (IvanjonasFC/IvanjonasFC) en:
-#   .github/workflows/metrics.yml
-# Genera y committea github-metrics.svg → el README lo enlaza y NUNCA se rompe.
+# Genera las estadisticas de GitHub como SVGs ESTATICOS y los committea al repo.
+# El README los enlaza como archivos locales -> nunca dependen de un servicio
+# externo y nunca vuelven a devolver 402 ("Invalid upstream response").
+#
+# REQUISITO UNICO (una sola vez):
+#   Crea un secreto llamado METRICS_TOKEN con un PAT (classic) con scope 'repo'
+#   (o 'public_repo' si solo tienes repos publicos).
+#   GitHub > Settings > Developer settings > Personal access tokens (classic)
+#   Repo > Settings > Secrets and variables > Actions > New repository secret
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 6 * * *" }]   # cada día a las 06:00 UTC
-  workflow_dispatch:                   # botón para ejecutarlo a mano
-  # OJO: sin disparador 'push'. Como el commit del SVG usa tu PAT, un 'push'
-  # aquí crearía un bucle infinito de ejecuciones.
+  schedule: [{ cron: "0 6 * * *" }]   # cada dia a las 06:00 UTC
+  workflow_dispatch:                   # boton para lanzarlo a mano
+  # Sin disparador 'push': el commit del SVG usa el token y provocaria un bucle.
 
 permissions:
   contents: write
@@ -15,15 +21,44 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1) Tarjeta de estadisticas (identidad + contadores) -> github-metrics.svg
+      - name: Estadisticas
+        uses: lowlighter/metrics@latest
         with:
-          # PAT (classic) guardado como secreto del repo. Scope: repo (o public_repo).
           token: ${{ secrets.METRICS_TOKEN }}
           user: IvanjonasFC
           filename: github-metrics.svg
-          template: classic
+          base: header
+          config_timezone: Europe/Madrid
+          committer_message: "chore(metrics): actualiza estadisticas"
+          extras_css: "h2.field { color: #ff6b00 !important; }"
+
+      # 2) Lenguajes mas usados -> github-languages.svg
+      - name: Lenguajes
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: IvanjonasFC
+          filename: github-languages.svg
           base: ""
           config_timezone: Europe/Madrid
-          # Minimalista: solo el calendario de contribuciones (isocalendar).
+          committer_message: "chore(metrics): actualiza lenguajes"
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          extras_css: "h2.field { color: #ff6b00 !important; }"
+
+      # 3) Calendario de contribuciones (ano completo) -> github-calendar.svg
+      - name: Calendario
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: IvanjonasFC
+          filename: github-calendar.svg
+          base: ""
+          config_timezone: Europe/Madrid
+          committer_message: "chore(metrics): actualiza calendario"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: "h2.field { color: #ff6b00 !important; }"
