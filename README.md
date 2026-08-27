@@ -28,7 +28,7 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="Estadísticas de GitHub" />
+<img src="github-stats.svg" alt="Estadísticas de GitHub" />
 <img src="github-languages.svg" alt="Lenguajes más usados" />
 
 </div>
@@ -67,6 +67,10 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 | Proyecto | Descripción | Enlace |
 | --- | --- | --- |
 | **OposApp** | TFG (DAM): seguimiento del BOPA + tests con IA local (Flutter + Spring Boot) | [GitHub](https://github.com/IvanjonasFC/OposApp) |
+| **Job-radar** | Scraper self-hosted de ofertas (JobSpy + RSS) → scoring con LLM (Groq/Gemini/Ollama) → pipeline n8n → CRM Astro/Postgres, todo configurable desde web | [GitHub](https://github.com/IvanjonasFC/Job-radar) |
+| **Dozeforge** | App de escritorio (Tauri) para auditar y arreglar consumo de batería, sueño y almacenamiento en Android vía ADB — bloatware, wakelocks, Doze, standby buckets, todo reversible | [GitHub](https://github.com/IvanjonasFC/Dozeforge) |
+| **VagabondBatterySaver** | Módulo Magisk (Android root): activa Battery Saver al bloquear la pantalla y gestiona los governors de CPU para minimizar consumo | [GitHub](https://github.com/IvanjonasFC/VagabondBatterySaver) |
+| **Happines-CO** | Proyecto educativo (1º DAM): web estática con HTML, CSS y JavaScript | [GitHub](https://github.com/IvanjonasFC/Happines-CO) |
 | **Hooklab** | Constructor/firmador/verificador de webhooks, 100% cliente | [hooks.ivanjonasfc.dev](https://hooks.ivanjonasfc.dev) |
 | **Acopio de Código** | Vault de comandos de infra y desarrollo | [syntax.ivanjonasfc.dev](https://syntax.ivanjonasfc.dev) |
 
