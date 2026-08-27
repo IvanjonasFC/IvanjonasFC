@@ -28,8 +28,8 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 <div align="center">
 
-<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api?username=IvanjonasFC&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00&border_radius=12" alt="Estadísticas" />
-<img height="170em" src="https://github-stats-extended-frontend-wheat.vercel.app/api/top-langs/?username=IvanjonasFC&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&border_radius=12" alt="Lenguajes más usados" />
+<img src="github-metrics.svg" alt="Estadísticas de GitHub" />
+<img src="github-languages.svg" alt="Lenguajes más usados" />
 
 </div>
 
@@ -115,7 +115,7 @@ diferencia:  escribo el código y administro la infraestructura donde corre
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanjonasFC&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff&area=true&hide_border=true&title_color=ff6b00" width="100%" alt="Gráfico de actividad" />
+<img src="github-calendar.svg" width="100%" alt="Calendario de contribuciones" />
 
 </div>
 
