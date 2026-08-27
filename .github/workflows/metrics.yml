@@ -3,10 +3,22 @@
 # externo y nunca vuelven a devolver 402 ("Invalid upstream response").
 #
 # REQUISITO UNICO (una sola vez):
-#   Crea un secreto llamado METRICS_TOKEN con un PAT (classic) con scope 'repo'
-#   (o 'public_repo' si solo tienes repos publicos).
-#   GitHub > Settings > Developer settings > Personal access tokens (classic)
+#   Secreto METRICS_TOKEN con un PAT (classic) scope 'repo' (o 'public_repo').
 #   Repo > Settings > Secrets and variables > Actions > New repository secret
+#
+# COMO ELEGIR EL CONTENIDO DE CADA TARJETA:
+#   Cada paso genera UN archivo SVG. Lo que muestra se controla con los plugins.
+#   Menu de plugins utiles (pon "yes" el que quieras en la tarjeta que quieras):
+#     plugin_isocalendar  -> calendario 3D de contribuciones
+#     plugin_languages    -> lenguajes mas usados
+#     plugin_lines        -> lineas de codigo anadidas/eliminadas
+#     plugin_habits       -> habitos de codigo (horas, dias, lenguajes)
+#     plugin_followup     -> issues y pull requests (abiertos/cerrados)
+#     plugin_activity     -> actividad reciente
+#     plugin_achievements -> logros de GitHub
+#     plugin_stargazers   -> evolucion de estrellas en el tiempo
+#     plugin_notable      -> contribuciones a repos populares de terceros
+#   Doc completa: https://github.com/lowlighter/metrics/tree/master/source/plugins
 name: Metrics
 
 on:
@@ -21,16 +33,20 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1) Tarjeta de estadisticas (identidad + contadores) -> github-metrics.svg
+      # 1) Resumen de actividad (identidad + lineas de codigo + issues/PRs)
+      #    -> github-stats.svg   (NO es un calendario: son numeros)
       - name: Estadisticas
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: IvanjonasFC
-          filename: github-metrics.svg
+          filename: github-stats.svg
           base: header
           config_timezone: Europe/Madrid
           committer_message: "chore(metrics): actualiza estadisticas"
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           extras_css: "h2.field { color: #ff6b00 !important; }"
 
       # 2) Lenguajes mas usados -> github-languages.svg
